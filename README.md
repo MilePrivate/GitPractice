@@ -11,4 +11,5 @@ izmena 2 push bez pull
 ppush pred bugfix!
 izmenaaaa bez push
 proba od git vs
+promena 1
 conflict
