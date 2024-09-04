@@ -7,3 +7,4 @@ bugfix1 another commit.
 bugfix1 multiple commits at once.
 bugfix local change.
 promena pred drug branch.
+izmena 1 push
