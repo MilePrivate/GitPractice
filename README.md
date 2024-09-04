@@ -9,3 +9,4 @@ bugfix local change.
 promena pred drug branch.
 izmena 2 push bez pull
 ppush pred bugfix!
+izmenaaaa bez push
