@@ -12,4 +12,4 @@ ppush pred bugfix!
 izmenaaaa bez push
 proba od git vs
 promena 1
-conflict
+conflict, konflikt 2
