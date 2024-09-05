@@ -9,4 +9,4 @@ commit 2.
 nova izmena readm me branch
 izmena branch1 merge
 izmena branch2 merge
-izmena
+izmena rebase
