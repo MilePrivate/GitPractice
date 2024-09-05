@@ -8,3 +8,4 @@ commit 1.
 commit 2.
 nova izmena readm me branch
 izmena branch1
+izmena branch2
